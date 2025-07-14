@@ -22,7 +22,6 @@ DooJJi is always with me while I learn 🐾💗
 ### 🔧 What I'm Learning  
 - 📈 Python
 - 🧪 Git & GitHub for version control  
-- 📊 Pandas, Matplotlib for data handling  
 - 🖥️ VSCode for documenting  
 - 🌱 Soon: Linux (WSL), Electron, Pandas
 
