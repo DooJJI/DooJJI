@@ -44,6 +44,6 @@ DooJJi is always with me while I learn 🐾💗
 
 ### 💌 Let’s Connect  
 - ✉️ [Email](mailto:jjangu94@gmail.com)
-- 💬 [Velog](https://velog.io/@jjangu94/posts) *(soon!)*  
+- 💬 [Velog](https://velog.io/@jjangu94/posts)
 
 </details>
